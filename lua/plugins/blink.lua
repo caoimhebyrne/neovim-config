@@ -3,7 +3,7 @@ return {
     version = "1.*",
     opts = {
         sources = {
-            default = { 'lsp', 'path', 'snippets', 'buffer' },
+            default = { 'lazydev', 'lsp', 'path', 'snippets', 'buffer' },
         },
         completion = {
             documentation = {
